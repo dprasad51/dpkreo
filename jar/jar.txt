@@ -1,0 +1,5 @@
+ <applet code=Animator.class 
+      archive="jars/animator.jar"
+      width=460 height=160>
+      <param name=foo value="bar">
+    </applet>
